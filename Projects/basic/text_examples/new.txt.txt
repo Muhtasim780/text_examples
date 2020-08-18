@@ -1,0 +1,1 @@
+Then we just learn how to write another loop outside this loop. So here's what we do. We start out, we make a dictionary. We read a line of text type, type, type, type, type. Line of text goes into this variable line, then we split it. Right? 
